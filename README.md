@@ -18,7 +18,7 @@ Hooks | Redux | SASS | React-Bootstrap | Bootstrap <br>
 _______________________________________________________
 
 
-- Contactme :  [![Linkedin Badge](https://img.shields.io/badge/-pamelaelin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaelinsosa/)
+- Contactme : <br> [![Linkedin Badge](https://img.shields.io/badge/-pamelaelin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaelinsosa/)
 
 
 
