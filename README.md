@@ -12,7 +12,7 @@ _______________________________________________________
 HTML5 ||	CSS3 	|| JavaScript || React.js 	<br>
 Hooks | Redux | SASS | React-Bootstrap | Bootstrap | Tailwind <br>
 | Microsoft Visual Studio Code 	| Git 	| GitHub <br>
-| Slack 	| Trello	| Scrum
+| Trello	| Scrum
 
 
 _______________________________________________________
