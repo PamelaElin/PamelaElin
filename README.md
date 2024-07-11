@@ -20,7 +20,7 @@ _______________________________________________________
 
 
 - Contactme : <br> [![Linkedin Badge](https://img.shields.io/badge/-pamelaelin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaelinsosa/)
-- [![Portfolio](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://pamelaelin.vercel.app/about)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=green)](https://pamelaelin.vercel.app/about)
 
 
 
